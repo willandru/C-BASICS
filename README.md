@@ -10,3 +10,5 @@ scri.ccp
 $ c++ -c scri.cpp -o scri
 ________________________
 $ make scri
+
+Herramientas usadas: geany, guake
